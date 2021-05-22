@@ -1,0 +1,28 @@
+p {
+    color:rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+}
+
+body {
+    background-color: ivory;
+    background-image: url("min-img.jfif")
+    
+
+}
+h1 {
+    color: rgb(143, 143, 143);
+    text-decoration: underline;
+    border: 2px solid rgb(139, 138, 138);
+    padding: 5px;
+    text-align: center;
+}
+img{
+    width: 300px;
+	height: 300px;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
